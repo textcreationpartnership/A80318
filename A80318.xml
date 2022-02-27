@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution of the three prisoners suffering at Tyburn on Wednesday the 17th of October, 1677 At which time suffered John S. William Fletcher, and Rob. Perkins. Together with their behaviour, and several remarkable discourses had with one of the highway-men in Newgate after his condemnation. Published for a warning-piece to all others to avoid the lewd courses which brought these poor men to this ignominious end. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80318</idno>
+            <idno type="STC">Wing C5756A</idno>
+            <idno type="STC">ESTC R205227</idno>
+            <idno type="EEBO-CITATION">99900117</idno>
+            <idno type="PROQUEST">99900117</idno>
+            <idno type="VID">135377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2528:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution of the three prisoners suffering at Tyburn on Wednesday the 17th of October, 1677 At which time suffered John S. William Fletcher, and Rob. Perkins. Together with their behaviour, and several remarkable discourses had with one of the highway-men in Newgate after his condemnation. Published for a warning-piece to all others to avoid the lewd courses which brought these poor men to this ignominious end. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fletcher, William, d. 1677 --  Early works to 1800.</term>
+               <term>Perkins, Rob., d. 1677 --  Early works to 1800.</term>
+               <term>S., John, d. 1677 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135377:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION Of the Three Priſoners ſuffering at TYBURN On <hi>Wedneſday</hi> the 17th of <hi>October,</hi> 1677.</p>
+            <p>At which time ſuffered <hi>John S. William Fletcher,</hi> and <hi>Rob. Perkins.</hi>
+            </p>
+            <p>TOGETHER With their Behaviour, and ſe<g ref="char:EOLhyphen"/>veral remarkable Diſcourſes had with one of the Highway-men in <hi>Newgate</hi> after his Condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>Publiſhed for a Warning-piece to all others to avoid the lewd Courſes which brought theſe poor men to this Ignominious End.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135377:2"/>
+            <pb n="3" facs="tcp:135377:2" rendition="simple:additions"/>
+            <head>The Confeſsion and Execution of the Priſoners dying at <hi>Tyburn.</hi>
+            </head>
+            <p>AT the Seſſions of <hi>Oyer</hi> and <hi>Terminer</hi> for <hi>London,</hi> and Gaole-delivery of <hi>Newgate</hi> begun at Juſtice-Hall in the <hi>Old Bayly, Octob.</hi> 10. and ending on the 12 of the ſame Month, there were in all (as by a Printed Narrative you may already have heard) Five perſons, who being Convicted on fair Tryals (<hi>per Patriam</hi>) of ſeveral ca<g ref="char:EOLhyphen"/>pital Crimes, received Sentence of Death: But Two of them, whoſe Crime was ſtealing of two horſes, appearing to be objects of mercy, as having never been concern'd in any ſuch offences before, and ſeeming now extremely penitent for the ſame, obtained a Gracious Reprieve. The other Three were this preſent Wedneſday, <hi>Octob.</hi> 17. carryed
+<pb n="4" facs="tcp:135377:3" rendition="simple:additions"/> to the place of execution, and by a ſhameful death ſurrendered their unhappie lives as Vi<g ref="char:EOLhyphen"/>ctims duely forfeited to the Juſtice of the Law.</p>
+            <p>Theſe were all three old notorious offen<g ref="char:EOLhyphen"/>ders; two of them (taken in <hi>Gardiners-lane, Weſtminſter</hi>) had long followed the Padd, as they call it, that is, Robbed upon the Highway: The other had made it his trade to break open houſes, and pilfer away peo<g ref="char:EOLhyphen"/>ples Goods, being burnt in the hand but two Seſſions ago: So that if ſuch Malefactors ſhould have longer been endured, honeſt Subjects would not be able either to ſleep ſecurely in their Dwellings, or travel abroad with ſafety on their lawful occaſions; but both within doors and withou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, been liable to the ſpoils and outrages of theſe barbarous Savages.</p>
+            <p>To aſſiſt theſe poor wretches for the good of their Souls after the time of their Con<g ref="char:EOLhyphen"/>demnation, the Sheriffs not onely manifeſted their pious Charity in ſending them able Divines to inſtruct them, and eſpecially Mr. Ordinary, who very laboriouſly diſcharges
+<pb n="5" facs="tcp:135377:3" rendition="simple:additions"/> his weighty office on ſuch occaſions, but likewiſe ſeveral godly Miniſters of their own accord, in Chriſtian-compaſſion to their pe<g ref="char:EOLhyphen"/>riſhing condition, were pleaſed to viſit them. Who laid before them the miſerable ſtate they were in; That now their days we num<g ref="char:EOLhyphen"/>bered, nay their very hours and minutes which they had to live in this world; and yet theſe few minutes were all the time and opportunity they had to provide for eterni<g ref="char:EOLhyphen"/>ty. That they were doom'd by Juſtice to a certain death; and though 'twas vain for them to flatter themſelves with hopes of longer life in this world, yet there was means left, by a ſpeedy, thorow, ſincere and hearty repentance of their ſins, and fleeing to Chriſt for mercy and forgiveneſs, to ſecure them<g ref="char:EOLhyphen"/>ſelves, by vertue of his merits and righteouſ<g ref="char:EOLhyphen"/>neſs, of a moſt happy and everlaſting life in the world to come. That to ſuch vile and ſin<g ref="char:EOLhyphen"/>ful wretches as they had been, it was unſpea<g ref="char:EOLhyphen"/>kable mercy that they had yet a little ſpace left, wherein to make peace with their God: for they might have gone on ſtill in riot and wickedneſs, and been ſuddenly ſnatcht away
+<pb n="6" facs="tcp:135377:4" rendition="simple:additions"/> in the very acts of their impiety <hi>&amp;c.</hi> Theſe and many other preſſing exhortations, toge<g ref="char:EOLhyphen"/>ther with ſevere threatnings to affright them and ſweet promiſes to allure them, taken from the Word of God, were made uſe of, to bring them to a due ſenſe of their ſins, and to cry mightily to God for ſalvation. <hi>But the deaf adder refuſes the voice of the charmer, charm he never ſo wiſely</hi> All this good ſeed could take no root, or produce very little vi<g ref="char:EOLhyphen"/>ſible fruit on the ſtony ground of two of theſe Priſoners obdurate hearts; they not ſeeming (to outward appearance at leaſt) to take that due and ſenſible notice of this moſt important counſel, as might be expected from perſons in their condition<g ref="char:punc">▪</g> 
+               <hi>But the Spi<g ref="char:EOLhyphen"/>rit bloweth where it listeth.</hi> The third ſee<g ref="char:EOLhyphen"/>med much affected with this pious advice, and was very earneſt and frequent in bewailing his ſins, and condemning himſelf bitterly for having ſo wickedly miſ-ſpent his precious time heretoforr. He acknowledged to ſome, that he had ſeveral years been a Thief, but not till of late upon the High-way: that at firſt his Conſcience would after every fact ſe<g ref="char:EOLhyphen"/>verely
+<pb n="7" facs="tcp:135377:4" rendition="simple:additions"/> check him; but ſince cuſtom of ſin<g ref="char:EOLhyphen"/>ning taking away the ſenſe, he had run on from one degree of wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kedneſs to a greater without controul. He was very frequent in Prayer, wherein he has been heard to expreſs himſelf to this effect.</p>
+            <p>
+               <q>Most dreadful and glorious God, though thou hatest all the workers of iniquity, yet through the Media<g ref="char:EOLhyphen"/>tion of thy bleſſed Son, with pity behold me a miſe<g ref="char:EOLhyphen"/>rable ſinner. Had I lived according to thy Command<g ref="char:EOLhyphen"/>ments, or ſubmitted to the Goſpel of thy Son, I might approach thee with the confidence of a childe: but I have been a Rebel against thee from my youth up, for<g ref="char:EOLhyphen"/>getting the God that made me, and the Saviour that redeemed me, quenchign and grieving the holy Spirit, and ſlighting the endleſs Glory which thou hast pre<g ref="char:EOLhyphen"/>pared for me. Oh the precious time which I have lost, which all the world cannot call back; the wonderful love which I unthankfully rejected! How have I lived in continual acts of all kinde of Profaneneſs, all kind of Debauchery, Whoring, Swearing, Drunkenneſs, and eſpecially Theft, which now has brought me to this woful, forlorn, condemned caſe wherein I am a ſhame to my friends, and a burden to my ſelf; and thou, O God, art my Terrour, who ſhouldct be my onely Hope and Comfort. Lord, thou knowest my ſecret ſins, which yet are unknown to men, and all their Aggra<g ref="char:EOLhyphen"/>vations. Mine iniquities, Lord, have found me out; my fears and ſorrows overwhelm me: a ſhameful
+<pb n="8" facs="tcp:135377:5"/> death expects me in this world, and endleſs torments are ready to receive me in the other. But, Lord! thy Goodneſs is equal to thy Greatneſs, thy Mercy over all thy works. Good God, be merciful therefore unto me, the vilest of ſinners: ſave me for thy abundant mercy, for the merit of thy Son, and for the promiſe of forgiveneſs which thou hast made through him; for in theſe alone is all my trust. Thou who didst pati<g ref="char:EOLhyphen"/>ently endure me when I deſpiſed thee, Oh do not re<g ref="char:EOLhyphen"/>fuſe me now I ſeek unto thee, and in the dust implore thy mercy. Lord, I ask not for longer life in this world, but for life eternal; not for liberty to ſin again, but for deliverance from this ſinning nature, and that body of death which overwhelms me. To this purpoſe Lord give me thy grace to improve theſe few minutes, and prepare me for death and Judgement; that when I leave this world with ſhame, I may be received into glory, and yeeld my departing ſoul with joy into the faithful hands of my Redeemer. Amen.</q>
+            </p>
+            <p>He behaved himſelf very penitently in the Cart, Prayed a conſiderable time by himſelf privately at the place of Execution; deſired all people to take warning by him to avoid Idleneſs and Ill Company, which brought him to this Ignominious End. The other joyned in the publick Prayers, but ſaid very little that could be heard. But all of them together ſuffered very patiently, and with ſubmiſſive acknow<g ref="char:EOLhyphen"/>ledgements of the Juſtice of the Sentence.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
